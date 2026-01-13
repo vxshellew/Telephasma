@@ -1,0 +1,6 @@
+telethon
+fastapi
+uvicorn
+websockets
+python-dotenv
+asyncio
