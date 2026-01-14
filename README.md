@@ -3,6 +3,11 @@
 ![Beta](https://img.shields.io/badge/Status-Beta-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![React](https://img.shields.io/badge/React-18+-61DAFB)
+![AI Assisted](https://img.shields.io/badge/Architecture-Human_Driven-orange)
+![Code](https://img.shields.io/badge/Implementation-AI_Assisted-blueviolet)
+
+  
+> AI-assisted tools were used during backend and frontend development.
 
 A powerful OSINT tool for analyzing Telegram gift-giving networks and channel ownership relationships. Telephasma scans Telegram groups/channels to discover users, map their gift transactions, and identify channel owners through bio analysis.
 
