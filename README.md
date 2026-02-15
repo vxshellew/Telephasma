@@ -1,4 +1,4 @@
-# Telephasma - Telegram Gift Network Analyzer
+# Telephasma - Telegram Gift Network Analyzer - CTI Project
 
 ![Beta](https://img.shields.io/badge/Status-Beta-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
